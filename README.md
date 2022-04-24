@@ -1,2 +1,2 @@
-# Py-KDB-
+# Py-KDB
 Python kdb+ concepts
